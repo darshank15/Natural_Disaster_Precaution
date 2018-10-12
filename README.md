@@ -1,1 +1,4 @@
 # Natural_Disaster_Precaution
+
+If we talk about preventing a natural disaster, We will use Machine learning with smart device sensor of IOT to detect and prevent it.To detect fire, cyclone, and an earthquake, we will embed the smart sensor in home/building to detect temperature, wind speed, Magnitude. Now We have a tremendous amount of past data from which we can conclude the threshold value for each type. Now to predict natural disaster we will use machine learning regression algorithm for prediction based on past available data set. We will use these all past data to train our model. We will continuously observe current parameters(temperature, humidity, Magnitude) using smart sensor and feed it to our model, which will predict possibilities of occurring natural disaster. Our system will generate a report in form of probability of occurring disaster on that day and the report will send to the administrative department to be aware regarding this activity.  
+
